@@ -15,7 +15,7 @@ Passionate about building impactful ML & NLP solutions.
 
 ### 🚀 Featured Projects
 
-- **[MyTorch v1](https://github.com/RishitSaxena55/MyTorch-v1)**  
+- **[TorchiFy v1](https://github.com/RishitSaxena55/TorchiFy-v1))**  
   A custom deep learning library inspired by PyTorch – my own take on understanding the fundamentals!
 
 - **[LibriSpeech ASR With Phonetic Transcription](https://github.com/RishitSaxena55/LibriSpeech_ASR_With_Phonetic_Transcription)**  
