@@ -16,7 +16,9 @@ Exploring the frontiers of AI through deep learning, speech processing, and natu
 ---
 
 ### 🚀 Featured Projects  
-
+- **[Medisyn](https://github.com/RishitSaxena55/Medisyn)**  
+  Built a RAG Based application for answering the unanswered questions regarding some diseases or rare diseases on which medical research is going on.
+  
 - **[TorchiFy v1](https://github.com/RishitSaxena55/TorchiFy-v1)**  
   A custom deep learning library inspired by PyTorch, built from scratch to deepen my understanding of tensor operations, autograd, and neural network fundamentals.
 
