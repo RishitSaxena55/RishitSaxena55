@@ -84,7 +84,7 @@ class RishitSaxena:
 
 ---
 
-## 🌟 PROJECTS ARCHIVE
+## 🌟 LEGENDARY PROJECTS ARCHIVE
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -200,7 +200,7 @@ seeking:
     ╠══════════════════════════════════════════════════════════════╣
     ║  📊 Papers Reproduced: ████████████████████░  20+           ║
     ║  🔬 Research Projects: ███████████████████░░  15+           ║
-    ║  💻 Code Commits: ██████████████████████░  1000+            ║
+    ║  💻 Code Commits: ██████████████████████░  600+             ║
     ║  🧠 Neural Networks: █████████████████████░  50+            ║
     ║  ☕ Coffee Consumed: ████████████████████████  ∞            ║
     ╚══════════════════════════════════════════════════════════════╝
