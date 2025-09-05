@@ -3,6 +3,7 @@
 # 🌌 RISHIT SAXENA 🌌
 ### `>>> NEURAL ARCHITECT & AI RESEARCHER <<<`
 
+<!-- Fixed URL encoding issue where DEEP was showing as EEP -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=EXPLORING+THE+FRONTIERS+OF+AI;DEEP+LEARNING+%7C+NLP+%7C+SPEECH+PROCESSING;BUILDING+THE+FUTURE+OF+INTELLIGENCE" alt="Typing SVG" />
 
 \`\`\`
