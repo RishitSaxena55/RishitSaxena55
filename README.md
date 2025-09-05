@@ -6,19 +6,6 @@
 <!-- Fixed URL encoding issue where DEEP was showing as EEP -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=EXPLORING+THE+FRONTIERS+OF+AI;DEEP+LEARNING+%7C+NLP+%7C+SPEECH+PROCESSING;BUILDING+THE+FUTURE+OF+INTELLIGENCE" alt="Typing SVG" />
 
-\`\`\`
-    ╔══════════════════════════════════════════════════════════════╗
-    ║                                                              ║
-    ║    ██████╗ ██╗███████╗██╗  ██╗██╗████████╗                  ║
-    ║    ██╔══██╗██║██╔════╝██║  ██║██║╚══██╔══╝                  ║
-    ║    ██████╔╝██║███████╗███████║██║   ██║                     ║
-    ║    ██╔══██╗██║╚════██║██╔══██║██║   ██║                     ║
-    ║    ██║  ██║██║███████║██║  ██║██║   ██║                     ║
-    ║    ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝                     ║
-    ║                                                              ║
-    ╚══════════════════════════════════════════════════════════════╝
-\`\`\`
-
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RishitSaxena55&color=blueviolet&style=for-the-badge&label=NEURAL+CONNECTIONS)
@@ -87,7 +74,7 @@ class RishitSaxena:
 
 ---
 
-## 🌟 PROJECTS ARCHIVE
+## 🌟 LEGENDARY PROJECTS ARCHIVE
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
