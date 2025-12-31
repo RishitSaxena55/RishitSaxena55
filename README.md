@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-rishitsaxena55.github.io-8B5CF6?style=for-the-badge&logo=safari&logoColor=white)](https://rishitsaxena55.github.io)
 [![Email](https://img.shields.io/badge/Email-rishitsaxena55@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishitsaxena55@gmail.com)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+3D+Gaussian+Splatting+from+scratch;Implementing+NeRF+in+Pure+PyTorch;Creating+Agentic+AI+Systems;Research+Intern+%40+IIIT+Guwahati" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Deep+Learning+%7C+Computer+Vision+%7C+NLP;3D+Gaussian+Splatting+%26+Neural+Rendering;Building+Agentic+AI+Systems;Research+Intern+%40+IIIT+Guwahati" alt="Typing SVG" />
 
 </div>
 
@@ -19,8 +19,8 @@
 class RishitSaxena:
     def __init__(self):
         self.role = "ML Researcher & AI Engineer"
-        self.education = "B.Tech CSE @ IIIT Guwahati (CPI: 9.2)"
-        self.interests = ["3D Vision", "Differentiable Rendering", "Agentic AI"]
+        self.education = "B.Tech CSE @ IIIT Guwahati"
+        self.interests = ["Deep Learning", "Computer Vision", "NLP", "3D Rendering", "Agentic AI"]
         self.currently = "Research Intern @ IIIT Guwahati"
         
     def philosophy(self):
@@ -104,7 +104,7 @@ LLM-driven evolutionary agent for algorithmic discovery, inspired by Google Deep
 </div>
 
 ### 🧠 Research Areas
-`3D Gaussian Splatting` `NeRF` `Differentiable Rendering` `Spherical Harmonics` `Variational Inference` `Transformers` `Early Exit Networks` `GANs` `RAG Systems`
+`Deep Learning` `Computer Vision` `NLP` `3D Gaussian Splatting` `NeRF` `Differentiable Rendering` `Transformers` `Variational Inference` `Early Exit Networks` `GANs` `RAG Systems`
 
 ---
 
@@ -129,7 +129,7 @@ LLM-driven evolutionary agent for algorithmic discovery, inspired by Google Deep
 
 - 🔬 **Research Intern** @ IIIT Guwahati — Early Exit Networks & Model Quantization
 - 🎯 **ML Club Coordinator** @ Maverics, IIIT Guwahati — Leading AI/ML community
-- 📚 **B.Tech CSE** @ IIIT Guwahati — CPI: 9.2/10
+- 📚 **B.Tech CSE** @ IIIT Guwahati
 
 ---
 
@@ -137,7 +137,7 @@ LLM-driven evolutionary agent for algorithmic discovery, inspired by Google Deep
 
 ### 💬 Let's Connect!
 
-*I'm passionate about pushing the boundaries of 3D vision and neural rendering. Always open to discussing research ideas and collaborations!*
+*I'm passionate about Deep Learning, Computer Vision, NLP, and Neural Rendering. Always open to discussing research ideas and collaborations!*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rishitsaxena55.github.io-8B5CF6?style=flat-square)](https://rishitsaxena55.github.io)
 [![Email](https://img.shields.io/badge/📧_Email-Get_in_Touch-EA4335?style=flat-square)](mailto:rishitsaxena55@gmail.com)
