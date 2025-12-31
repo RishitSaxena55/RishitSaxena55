@@ -129,8 +129,12 @@ Multi-agent system with 8 specialized agents for stock analysis, risk assessment
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RishitSaxena55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishitSaxena55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" />
+<a href="https://github.com/RishitSaxena55">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RishitSaxena55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&count_private=true" />
+</a>
+<a href="https://github.com/RishitSaxena55">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RishitSaxena55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8" />
+</a>
 
 </div>
 
