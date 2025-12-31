@@ -61,27 +61,32 @@ LLM-driven evolutionary agent for algorithmic discovery, inspired by Google Deep
 </td>
 <td width="50%">
 
-### 📸 [NeRF: Neural Radiance Fields](https://github.com/RishitSaxena55/NeRF-PyTorch-)
+### � [NeRF: Neural Radiance Fields](https://github.com/RishitSaxena55/NeRF-PyTorch-)
 3D scene reconstruction from scratch with positional encoding and hierarchical volume sampling.
 
 `PyTorch` `Volume Rendering` `3D Vision`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
-### 🚗 [DMS Mini](https://github.com/RishitSaxena55/dms-mini-pro)
+### �🚗 [DMS Mini](https://github.com/RishitSaxena55/dms-mini-pro)
 Real-time driver monitoring with emotion recognition. Lightweight EmotionCNN (~320K params) for edge deployment.
 
 `PyTorch` `MTCNN` `Edge AI` `ONNX`
 
 </td>
+<td width="50%">
+
+### 📈 [AI Hedge Fund Agent](https://github.com/RishitSaxena55/AI-Hedge-Fund-Agent)
+Multi-agent system with 8 specialized agents for stock analysis, risk assessment, and intrinsic valuation.
+
+`Multi-Agent` `LangChain` `Streamlit`
+
+</td>
 </tr>
 </table>
-</tr>
-
-</table>
-
-
 
 <details>
 <summary><b>🔽 View More Projects</b></summary>
@@ -89,7 +94,6 @@ Real-time driver monitoring with emotion recognition. Lightweight EmotionCNN (~3
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [AI Hedge Fund Agent](https://github.com/RishitSaxena55/AI-Hedge-Fund-Agent) | 8-agent system for stock analysis & risk assessment | Multi-Agent, LangChain |
 | [WhisprNet](https://github.com/RishitSaxena55/WhisprNet) | Encoder-Decoder Transformer for ASR | Transformers, Attention |
 | [Medisyn](https://github.com/RishitSaxena55/Medisyn) | RAG system for medical research | RAG, LLMs |
 | [EENet](https://github.com/RishitSaxena55/EENet) | Early Exit Networks with ResNet backbone | ResNet, Efficient ML |
