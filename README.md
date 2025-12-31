@@ -70,6 +70,17 @@ LLM-driven evolutionary agent for algorithmic discovery, inspired by Google Deep
 </tr>
 </table>
 
+<td width="50%">
+
+### 🚗 [DMS Mini](https://github.com/RishitSaxena55/dms-mini-pro)
+Real-time driver monitoring with emotion recognition. Lightweight EmotionCNN (~320K params) for edge deployment.
+
+`PyTorch` `MTCNN` `Edge AI` `ONNX`
+
+</td>
+</tr>
+</table>
+
 <details>
 <summary><b>🔽 View More Projects</b></summary>
 <br>
